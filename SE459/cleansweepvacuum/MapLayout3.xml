@@ -1,0 +1,204 @@
+<?xml version="1.0"?>			
+<Map>			
+		<row>		
+		<cell x="0" y="0" chargingStation="true" dirt="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="0" chargingStation="false" dirt="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="0" chargingStation="false" dirt="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="0" chargingStation="false" dirt="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="0" chargingStation="false" dirt="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="0" chargingStation="false" dirt="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="0" chargingStation="false" dirt="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="0" chargingStation="false" dirt="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+		
+		<cell x="8" y="0" chargingStation="false" dirt="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="0" chargingStation="false" dirt="1" type="Bare Floor" north="Clear" south="Wall" east="Wall" west="Clear"/>
+						
+		<cell x="0" y="1" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="1" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="1" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="1" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="1" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Door (open)" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="1" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="1" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="1" chargingStation="false" dirt ="1" type="Bare Floor" north="Door (open)" south="Clear" east="Door (closed)" west="Clear"/>
+			
+		<cell x="8" y="1" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Door (closed)"/>
+			
+		<cell x="9" y="1" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Wall" west="Clear"/>
+						
+		<cell x="0" y="2" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="2" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="2" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="2" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="2" chargingStation="false" dirt ="1" type="Bare Floor" north="Door (open)" south="Clear" east="Clear" west="Door (open)"/>
+			
+		<cell x="5" y="2" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Door (open)" west="Clear"/>
+			
+		<cell x="6" y="2" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Door (open)"/>
+			
+		<cell x="7" y="2" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="2" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="2" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Wall" west="Clear"/>
+				
+		<cell x="0" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Door (open)" south="Wall" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Door (closed)" west="Clear"/>
+			
+		<cell x="4" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Door (closed)"/>
+			
+		<cell x="5" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="3" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Wall" west="Clear"/>
+							
+		<cell x="0" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Door (closed)" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="4" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="4" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="4" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Wall" west="Clear"/>
+				
+		<cell x="0" y="5" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="5" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Door (closed)" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="2"  y="5" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="5" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="5" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="5" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="5" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="5" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="5" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="5" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Wall" west="Clear"/>
+					
+		<cell x="0" y="6" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="6" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="6" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="6" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Door (open)" west="Clear"/>
+			
+		<cell x="4" y="6" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Door (open)"/>
+			
+		<cell x="5" y="6" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="6" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="6" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="6" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="6" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="wall" west="Clear"/>
+				
+		<cell x="0" y="7" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="7" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="7" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="7" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="7" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="7" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="7" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="7" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="7" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="7" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Wall" west="Clear"/>
+						
+		<cell x="0" y="8" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="8" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="8" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="8" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="8" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="8" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="6" y="8" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="8" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="8" chargingStation="false" dirt ="1" type="High-Pile Carpet" north="Clear" south="Clear" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="8" chargingStation="false" dirt ="1" type="Bare Floor" north="Clear" south="Clear" east="Wall" west="Clear"/>
+						
+		<cell x="0" y="9" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Wall" south="Clear" east="Clear" west="Wall"/>
+			
+		<cell x="1" y="9" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="2" y="9" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="3" y="9" chargingStation="false" dirt ="1" type="Low-Pile Carpet" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="4" y="9" chargingStation="false" dirt ="1" type="Stairs" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="5" y="9" chargingStation="false" dirt ="1" type="Bare Floor" north="Wall" south="Wall" east="Clear" west="Stairs"/>
+			
+		<cell x="6" y="9" chargingStation="false" dirt ="1" type="Bare Floor" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="7" y="9" chargingStation="false" dirt ="1" type="Bare Floor" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="8" y="9" chargingStation="false" dirt ="1" type="Bare Floor" north="Wall" south="Wall" east="Clear" west="Clear"/>
+			
+		<cell x="9" y="9" chargingStation="false" dirt ="1" type="Bare Floor" north="Wall" south="Clear" east="Wall" west="Clear"/>	
+	</row>	
+</Map>			

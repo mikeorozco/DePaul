@@ -1,0 +1,423 @@
+<?xml version="1.0"?>			
+<Map>			
+	<row y="0">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Door (open)" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="1">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Door (open)" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Door (open)" south="Clear" east="Door (closed)" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Door (closed)"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="2">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Door (closed)" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Door (open)" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Door (open)" south="Clear" east="Clear" west="Door (open)"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Clear" east="Door (open)" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Door (open)"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="3">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Door (closed)" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Door (closed)" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Door (closed)"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="4">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Door (closed)" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Wall" south="Wall" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="5">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Door (closed)" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Wall" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="6">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Door (open)" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Door (open)"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="7">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+	<row y="8">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Stairs Border" east="Clear" west="Wall"></borders>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>High-Pile Carpet</type>
+			<borders north="Clear" south="Clear" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Clear" east="Wall" west="Clear"></borders>
+		</cell>	
+	</row>		
+	<row y="9">		
+		<cell x="0" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="1" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="2" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="3" chargingStation="false" dirt ="1">	
+			<type>Low-Pile Carpet</type>
+			<borders north="Clear" south="Wall" east="Wall" west="Clear"/>
+		</cell>	
+		<cell x="4" chargingStation="false" dirt ="1">	
+			<type>Stairs Cell</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="5" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Wall" west="Stairs Border"></borders>
+		</cell>	
+		<cell x="6" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Wall"/>
+		</cell>	
+		<cell x="7" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="8" chargingStation="false" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Clear" west="Clear"/>
+		</cell>	
+		<cell x="9" chargingStation="true" dirt ="1">	
+			<type>Bare Floor</type>
+			<borders north="Clear" south="Wall" east="Wall" west="Clear"/>
+		</cell>	
+	</row>		
+</Map>			
